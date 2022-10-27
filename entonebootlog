@@ -1,0 +1,954 @@
+BCM72310012
+
+
+AVS 0.5.5
+
+B1
+
+PV=00000313
+
+PV=00000310
+
+MV=000003A0
+
+
+M0
+SHMOO VER 1.17
+MCB
+
+PKID 20131007 003B6000 003B0000 0496103E 00001C00 
+
+S300001DB 
+000013D0 
++00000004 >0000013D 
+t00000023 0000003C 
+@00000096 ^00000019 
+
+RDEN W0 0000001E 00000002 00000000 
+
+
+RDLY W0 00000003 
+
+RDQS W0 
+
+    0000000000111111111122222222223333333333444444444455555555556666
+    0123456789012345678901234567890123456789012345678901234567890123
+ 00 ------++++++++++++++++++++++X++++++++++++++++++++++-------------
+ 01 -----++++++++++++++++++++++X++++++++++++++++++++++--------------
+ 02 -------+++++++++++++++++++++++X++++++++++++++++++++++-----------
+ 03 ---------++++++++++++++++++++++X++++++++++++++++++++++----------
+ 04 -++++++++++++++++++++++X++++++++++++++++++++++------------------
+ 05 -++++++++++++++++++++++++X++++++++++++++++++++++++--------------
+ 06 -+++++++++++++++++++++++X++++++++++++++++++++++-----------------
+ 07 --------++++++++++++++++++++++++X+++++++++++++++++++++++--------
+ 08 -------++++++++++++++++++++X++++++++++++++++++++----------------
+ 09 ---------+++++++++++++++++++++X++++++++++++++++++++-------------
+ 10 --------+++++++++++++++++++++X+++++++++++++++++++++-------------
+ 11 ----------+++++++++++++++++++++X++++++++++++++++++++------------
+ 12 ----+++++++++++++++++++++X+++++++++++++++++++++-----------------
+ 13 -----+++++++++++++++++++++X+++++++++++++++++++++----------------
+ 14 -------++++++++++++++++++++X+++++++++++++++++++-----------------
+ 15 -----------++++++++++++++++++++X++++++++++++++++++++------------
+
+
+P    W0 
+
+    0000000000111111111122222222223333333333444444444455555555556666
+    0123456789012345678901234567890123456789012345678901234567890123
+ 00 -------++++++++++++++++++++++++X+++++++++++++++++++++++---------
+ 01 -----++++++++++++++++++++++++X++++++++++++++++++++++++----------
+ 02 -------+++++++++++++++++++++++++X++++++++++++++++++++++++-------
+ 03 ---------++++++++++++++++++++++++X++++++++++++++++++++++++------
+ 04 --+++++++++++++++++++++++X+++++++++++++++++++++++---------------
+ 05 --++++++++++++++++++++++++X++++++++++++++++++++++++-------------
+ 06 ---+++++++++++++++++++++++X++++++++++++++++++++++---------------
+ 07 -------+++++++++++++++++++++++++X++++++++++++++++++++++++-------
+ 08 --+++++++++++++++++++++++X++++++++++++++++++++++----------------
+ 09 -------++++++++++++++++++++++X++++++++++++++++++++++------------
+ 10 -----+++++++++++++++++++++++X++++++++++++++++++++++-------------
+ 11 -------++++++++++++++++++++++X++++++++++++++++++++++------------
+ 12 -+++++++++++++++++++++++X+++++++++++++++++++++++----------------
+ 13 ++++++++++++++++++++++++X+++++++++++++++++++++++----------------
+ 14 --++++++++++++++++++++++X++++++++++++++++++++++-----------------
+ 15 -------+++++++++++++++++++++++X++++++++++++++++++++++-----------
+
+
+N    W0 
+
+    0000000000111111111122222222223333333333444444444455555555556666
+    0123456789012345678901234567890123456789012345678901234567890123
+ 00 --++++++++++++++++++++++++X++++++++++++++++++++++++-------------
+ 01 -++++++++++++++++++++++++X++++++++++++++++++++++++--------------
+ 02 ----++++++++++++++++++++++++X++++++++++++++++++++++++-----------
+ 03 -----++++++++++++++++++++++++X++++++++++++++++++++++++----------
+ 04 +++++++++++++++++++++++X++++++++++++++++++++++------------------
+ 05 +++++++++++++++++++++++++X++++++++++++++++++++++++--------------
+ 06 +++++++++++++++++++++++X+++++++++++++++++++++++-----------------
+ 07 -------++++++++++++++++++++++++X++++++++++++++++++++++++--------
+ 08 ------+++++++++++++++++++++X++++++++++++++++++++----------------
+ 09 ---------+++++++++++++++++++++X++++++++++++++++++++-------------
+ 10 --------+++++++++++++++++++++X+++++++++++++++++++++-------------
+ 11 ----------+++++++++++++++++++++X++++++++++++++++++++------------
+ 12 ----+++++++++++++++++++++X+++++++++++++++++++++-----------------
+ 13 -----++++++++++++++++++++++X++++++++++++++++++++++--------------
+ 14 -------++++++++++++++++++++X+++++++++++++++++++-----------------
+ 15 ------------++++++++++++++++++++X+++++++++++++++++++------------
+
+
+WRDQ W0 
+
+    0000000000111111111122222222223333333333444444444455555555556666
+    0123456789012345678901234567890123456789012345678901234567890123
+ 00 ++++++++++++++++++++X++++++++++++++++++++--------------+++++++++
+ 01 +++++++++++++++++++X+++++++++++++++++++----------------+++++++++
+ 02 +++++++++++++++++++++X++++++++++++++++++++-------------+++++++++
+ 03 +++++++++++++++++++++X+++++++++++++++++++++-----------++++++++++
+ 04 ++++++++++++++++++X++++++++++++++++++-+----------------+++++++++
+ 05 ++++++++++++++++++++X++++++++++++++++++++-------------++++++++++
+ 06 +++++++++++++++++++X+++++++++++++++++++----------------+++++++++
+ 07 +++++++++++++++++++++X++++++++++++++++++++-------------+++++++++
+ 08 ++++++++++++++++++++X++++++++++++++++++++---------------++++++++
+ 09 +++++++++++++++++++++X++++++++++++++++++++-------------+++++++++
+ 10 +++++++++++++++++++X+++++++++++++++++++----------------+++++++++
+ 11 +++++++++++++++++++++X++++++++++++++++++++--------------++++++++
+ 12 +++++++++++++++++++X+++++++++++++++++++----------------+++++++++
+ 13 +++++++++++++++++++X+++++++++++++++++++---------------++++++++++
+ 14 +++++++++++++++++++X+++++++++++++++++++---------------++++++++++
+ 15 ++++++++++++++++++++X+++++++++++++++++++----------------++++++++
+
+
+WRDM W0 00000013 
+WRDM W0 00000013 
+
+
+ADDR 
+
+    0000000000111111111122222222223333333333444444444455555555556666
+    0123456789012345678901234567890123456789012345678901234567890123
+ 00 +++++++++++++++++++++++++++++++X+S++++++++++++++++++++++++++++++
+
+SC
+
+bep=2.5.4-pbl
+
+test cfe1
+
+cfe1 ok
+
+ZS
+L2=1
+LLMB=1
+BrCfg=E30F37C6
+#@
+
+BCM97229B2 CFE v3.23, CFE core v3.53, PBL: 2.5.4-pbl, Endian Mode: Little
+Build Date: Wed Jul 27 18:50:00 HKT 2016 (jack.yu@localhost.localdomain)
+Copyright (C) Broadcom Corporation.
+
+MACRONIX SPI flash detected: Size = 4MB, Sector Size 4096, Page Size 256
+Unknown partition: 'device', start 0x0, size 0x0
+Boot from NOR flash: Detecting NAND flash at CS2 ...
+NAND flash information:
+- Device ID: 0x98DA9015 (Ext: 0x76140300)
+- Name: TC58NVG1S3E
+- ECC Level: 4
+- Spare Area Size: 16
+Enabling NAND flash at CS2 ...
+Size of NAND flash: 256 MByte
+Loading NVRAM at NOR flash 0x00130000
+
+CPU speed:            495MHz
+DDR Frequency:        663 MHz
+DDR Mode:             DDR3
+Total memory(MEMC 0): 512MB
+MEMC 0 DDR Width:     16
+Boot Device:          SPI
+Total flash:          4MB
+RTS VERSION:          Initial RTS Version
+ETH0_PHY:             INT
+ETH0_MDIO_MODE:       1
+ETH0_SPEED:           100
+ETH0_PHYADDR:         1
+
+Initializing USB.
+USB: Locating Class 09 Vendor 0000 Product 0000: USB Root Hub
+USB: Locating Class 09 Vendor 0000 Product 0000: USB Root Hub
+
+CFE initialized.
+CFE mem_heapstart: 0x87078400
+
+HW Config Block
+Version: 4
+ESN: 4527406
+HW Model: 26
+Board Version: B2 - 104
+(Front Panel Skipped)
+Color System: P
+Secure: 2
+
+Starting splash screen (PAL).
+CFE splash PNG memroy: 0x85000000
+CFE splash surface memroy 0: 0x8c800000
+CFE splash surface memroy 1: 0x8ca00000
+PNG Info [0] - Width = 720 Height = 480
+PNG Info [1] - Width = 720 Height = 480
+PNG Info [2] - Width = 1280 Height = 720
+CFE splash: Loaded PNG picture @ index=2
+PNG Info [0] - Width = 720 Height = 480
+CFE splash: Loaded PNG picture @ index=0
+CFE splash: show normal image, index: 2 (addr=0x850049a6) 0 (addr=0x85000000) 
+PNG Info [0] - Width = 1280 Height = 720
+PNG Info [0] - Width = 720 Height = 480
+
+USB device matching <USB Disk> not found!
+Executing STARTUP...
+Loader:elf Filesys:raw Dev:nand0.appkernel File: Options:bmem=160M@96M bmem=97M@512M boot_dev=cfe active_module=app
+Loading: Header OK!
+Verifying Signature...
+===============================
+SHA2 Hash from Calculation:
+06 02 9d ca 84 fc 8d 91 7d fd fc c9 34 9f aa a1 
+0b 1d 4e 90 5b b6 7e 65 fc f8 00 68 d9 6c d0 7c 
+===============================
+RSA Modules Len (256) RSA Pub Exp Len (3)
+===============================
+SHA2 Hash from Signature:
+06 02 9d ca 84 fc 8d 91 7d fd fc c9 34 9f aa a1 
+0b 1d 4e 90 5b b6 7e 65 fc f8 00 68 d9 6c d0 7c 
+===============================
+Valid Image found!
+0x80001000/9275904 0x808d9a00/158032 Entry address is 0x80492db0
+Starting program at 0x80492db0
+
+Linux version 2.6.37-3.2 (build@build2) (gcc version 4.5.3 (Broadcom stbgcc-4.5.3-2.4) ) #2 SMP Fri Mar 31 13:29:31 HKT 2017
+Fetching vars from bootloader... found 6 vars.
+Options: enet_en=1 enet0_mii=0 enet_no_mdio=0 enet1_en=1 moca=0
+         sata=0 docsis=0 pci=0 pcie=0 smp=1 usb=1
+Using 512 MB + 0 MB RAM (from CFE)
+bootconsole [early0] enabled
+CPU revision is: 0002a064 (Broadcom BMIPS4380)
+FPU revision is: 00130001
+Determined physical RAM map:
+ memory: 10000000 @ 00000000 (usable)
+ memory: 10000000 @ 20000000 (usable)
+bmem: adding 160 MB RESERVED region at 96 MB (0x0a000000@0x06000000)
+bmem: adding 97 MB RESERVED region at 512 MB (0x06100000@0x20000000)
+Initrd not found or empty - disabling initrd
+Zone PFN ranges:
+  Normal   0x00000000 -> 0x00030000
+Movable zone start PFN for each node
+early_node_map[2] active PFN ranges
+    0: 0x00000000 -> 0x00010000
+    0: 0x00020000 -> 0x00030000
+PERCPU: Embedded 7 pages/cpu @81407000 s6656 r8192 d13824 u32768
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 129536
+Kernel command line: bmem=160M@96M bmem=97M@512M boot_dev=cfe active_module=app
+PID hash table entries: 2048 (order: 1, 8192 bytes)
+Dentry cache hash table entries: 65536 (order: 6, 262144 bytes)
+Inode-cache hash table entries: 32768 (order: 5, 131072 bytes)
+Primary instruction cache 32kB, VIPT, 2-way, linesize 64 bytes.
+Primary data cache 64kB, 4-way, VIPT, cache aliases, linesize 64 bytes
+Memory: 247316k/524288k available (4763k kernel code, 276972k reserved, 975k data, 3320k init, 0k highmem)
+Hierarchical RCU implementation.
+	RCU-based detection of stalled CPUs is disabled.
+NR_IRQS:160
+Detected MIPS clock frequency: 495 MHz (247.518 MHz counter)
+Console: colour dummy device 80x25
+Calibrating delay loop... 493.56 BogoMIPS (lpj=246784)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+[BLINK LED] BRCM_PROD_ID : 7229 
+[BLINK LED] blink_led.color not found!
+[BLINK LED] blink_led device registered with major 253 
+SMP: Booting CPU1...
+CPU revision is: 0002a064 (Broadcom BMIPS4380)
+FPU revision is: 00130001
+Primary instruction cache 32kB, VIPT, 2-way, linesize 64 bytes.
+Primary data cache 64kB, 4-way, VIPT, cache aliases, linesize 64 bytes
+SMP: CPU1 is running
+Brought up 2 CPUs
+NET: Registered protocol family 16
+USB0: power enable is active low; overcurrent is active low
+USB1: IOC was not set by the bootloader; forcing default settings
+USB1: power enable is active low; overcurrent is active low
+SDIO_0: enabling controller
+bio: create slab <bio-0> at 0
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Switching to clocksource wktmr
+NET: Registered protocol family 2
+IP route cache hash table entries: 4096 (order: 2, 16384 bytes)
+TCP established hash table entries: 16384 (order: 5, 131072 bytes)
+TCP bind hash table entries: 16384 (order: 5, 131072 bytes)
+TCP: Hash tables configured (established 16384 bind 16384)
+TCP reno registered
+UDP hash table entries: 256 (order: 1, 8192 bytes)
+UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+NET: Registered protocol family 1
+RPC: Registered udp transport module.
+RPC: Registered tcp transport module.
+RPC: Registered tcp NFSv4.1 backchannel transport module.
+squashfs: version 4.0 (2009/01/31) Phillip Lougher
+ROMFS MTD (C) 2007 Red Hat, Inc.
+fuse init (API version 7.15)
+msgmni has been set to 483
+io scheduler noop registered
+io scheduler deadline registered
+io scheduler cfq registered (default)
+Serial: 8250/16550 driver, 4 ports, IRQ sharing disabled
+serial8250.0: ttyS0 at MMIO 0x10406900 (irq = 65) is a 16550A
+console [ttyS0] enabled, bootconsole disabled
+console [ttyS0] enabled, bootconsole disabled
+serial8250.0: ttyS1 at MMIO 0x10406940 (irq = 66) is a 16550A
+serial8250.0: ttyS2 at MMIO 0x10406980 (irq = 67) is a 16550A
+brd: module loaded
+loop: module loaded
+brcmstb_nand: NAND controller driver is loaded
+Config internal EPHY through MDIO
+No PHY detected, not registering interface:1
+bcmgenet: probe of bcmgenet.1 failed with error -5
+pegasus: v0.6.14 (2006/09/27), Pegasus/Pegasus II USB Ethernet driver
+usbcore: registered new interface driver pegasus
+usbcore: registered new interface driver asix
+usbcore: registered new interface driver cdc_ether
+usbcore: registered new interface driver cdc_subset
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ehci-brcm ehci-brcm.0: Broadcom STB EHCI
+ehci-brcm ehci-brcm.0: new USB bus registered, assigned bus number 1
+ehci-brcm ehci-brcm.0: irq 69, io mem 0x10480300
+ehci-brcm ehci-brcm.0: USB 0.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+ehci-brcm ehci-brcm.1: Broadcom STB EHCI
+ehci-brcm ehci-brcm.1: new USB bus registered, assigned bus number 2
+ehci-brcm ehci-brcm.1: irq 70, io mem 0x10480500
+ehci-brcm ehci-brcm.1: USB 0.0 started, EHCI 1.00
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+ohci-brcm ohci-brcm.0: Broadcom STB OHCI
+ohci-brcm ohci-brcm.0: new USB bus registered, assigned bus number 3
+ohci-brcm ohci-brcm.0: irq 71, io mem 0x10480400
+hub 3-0:1.0: USB hub found
+hub 3-0:1.0: 1 port detected
+ohci-brcm ohci-brcm.1: Broadcom STB OHCI
+ohci-brcm ohci-brcm.1: new USB bus registered, assigned bus number 4
+ohci-brcm ohci-brcm.1: irq 72, io mem 0x10480600
+hub 4-0:1.0: USB hub found
+hub 4-0:1.0: 1 port detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+sdhci: Secure Digital Host Controller Interface driver
+sdhci: Copyright(c) Pierre Ossman
+mmc0: SDHCI controller on platform [sdhci.0] using ADMA
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+TCP cubic registered
+NET: Registered protocol family 17
+Bridge firewalling registered
+EBI CS2: setting up NAND flash (primary)
+NAND device: Manufacturer ID: 0x98, Chip ID: 0xda (Toshiba NAND 256MiB 3,3V 8-bit)
+brcmnand brcmnand.0: 256MiB total, 128KiB blocks, 2KiB pages, 16B OOB, 8-bit, BCH-4
+
+Bad block table found at page 131008, version 0x01
+Bad block table found at page 130944, version 0x01
+EBI CS0: setting up SPI flash
+spi_brcmstb spi_brcmstb.0: 1-lane output, 3-byte address
+m25p80 spi0.0: found mx25l3205d, expected m25p80
+m25p80 spi0.0: mx25l3205d (4096 Kbytes)
+[ENTONE] Delay adding NOR partitions until NAND driver is initialized (0xaf685218)
+PM: CP0 COUNT/COMPARE frequency does not depend on divisor
+[ENTONE] BBT uses 1MB flash.
+Creating 1 MTD partitions on "spi0.0":
+0x000000000000-0x000000020000 : "nor0.bep"
+Creating 1 MTD partitions on "spi0.0":
+0x0000000f0000-0x000000110000 : "nor0.otpdata"
+Creating 1 MTD partitions on "spi0.0":
+0x000000020000-0x0000000a0000 : "nor0.cfe1"
+Creating 1 MTD partitions on "spi0.0":
+0x0000000a0000-0x0000000f0000 : "nor0.empty"
+Creating 1 MTD partitions on "spi0.0":
+0x000000110000-0x000000130000 : "nor0.upgradedata"
+Creating 1 MTD partitions on "spi0.0":
+0x000000130000-0x000000140000 : "nor0.nvram"
+Creating 1 MTD partitions on "spi0.0":
+0x000000140000-0x0000001c0000 : "nor0.splash"
+Creating 1 MTD partitions on "spi0.0":
+0x0000001c0000-0x0000001d0000 : "nor0.eeprom"
+Creating 1 MTD partitions on "spi0.0":
+0x0000001d0000-0x000000400000 : "nor0.kloader"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000000000000-0x000001000000 : "nand0.persist"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000001000000-0x000001600000 : "nand0.bblkernel1"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000001600000-0x000003600000 : "nand0.bblrootfs1"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000003600000-0x000003c00000 : "nand0.bblkernel2"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000003c00000-0x000005c00000 : "nand0.bblrootfs2"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000005c00000-0x000006200000 : "nand0.appkernel"
+Creating 1 MTD partitions on "brcmnand.0":
+0x000006200000-0x00000ff00000 : "nand0.approotfs"
+
+Freeing unused kernel memory: 3320k freed
+Default active_module=bbl
+keyread: registered
+CFE passed active_module=app to kernel
+Override active_module=app
+UBI: attaching mtd9 to ubi9
+UBI: physical eraseblock size:   131072 bytes (128 KiB)
+UBI: logical eraseblock size:    126976 bytes
+UBI: smallest flash I/O unit:    2048
+UBI: VID header offset:          2048 (aligned 2048)
+UBI: data offset:                4096
+UBI: max. sequence number:       191749
+UBI warning: print_rsvd_warning: cannot reserve enough PEBs for bad PEB handling, reserved 0, need 2
+UBI: attached mtd9 to ubi9
+UBI: MTD device name:            "nand0.persist"
+UBI: MTD device size:            16 MiB
+UBI: number of good PEBs:        128
+UBI: number of bad PEBs:         0
+UBI: number of corrupted PEBs:   0
+UBI: max. allowed volumes:       128
+UBI: wear-leveling threshold:    4096
+UBI: number of internal volumes: 1
+UBI: number of user volumes:     1
+UBI: available PEBs:             0
+UBI: total number of reserved PEBs: 128
+UBI: number of PEBs reserved for bad PEB handling: 0
+UBI: max/mean erase counter: 2238/1497
+UBI: image sequence number:  555235256
+UBI: background thread "ubi_bgt9d" started, PID 493
+UBI device number 9, total 128 LEBs (16252928 bytes, 15.5 MiB), available 0 LEBs (0 bytes), LEB size 126976 bytes (124.0 KiB)
+UBI: attaching mtd15 to ubi15
+UBI: physical eraseblock size:   131072 bytes (128 KiB)
+UBI: logical eraseblock size:    126976 bytes
+UBI: smallest flash I/O unit:    2048
+UBI: VID header offset:          2048 (aligned 2048)
+UBI: data offset:                4096
+UBI: max. sequence number:       753
+UBI: attached mtd15 to ubi15
+UBI: MTD device name:            "nand0.approotfs"
+UBI: MTD device size:            157 MiB
+UBI: number of good PEBs:        1256
+UBI: number of bad PEBs:         0
+UBI: number of corrupted PEBs:   0
+UBI: max. allowed volumes:       128
+UBI: wear-leveling threshold:    4096
+UBI: number of internal volumes: 1
+UBI: number of user volumes:     1
+UBI: available PEBs:             0
+UBI: total number of reserved PEBs: 1256
+UBI: number of PEBs reserved for bad PEB handling: 12
+UBI: max/mean erase counter: 2/1
+UBI: image sequence number:  133003217
+UBI: background thread "ubi_bgt15d" started, PID 628
+UBI device number 15, total 1256 LEBs (159481856 bytes, 152.1 MiB), available 0 LEBs (0 bytes), LEB size 126976 bytes (124.0 KiB)
+Init ...
+ECC failed: 0
+ECC corrected: 0
+Number of bad blocks: 0
+Number of bbt blocks: 0
+Block size 131072, page size 2048, OOB size 64
+Dumping data starting at 0x00000000 and ending at 0x00000004...
+kernel header byte: 0002
+
+*********
+Secure boot
+*********
+
+UBIFS: recovery needed
+UBIFS: recovery deferred
+UBIFS: mounted UBI device 9, volume 0, name "persist"
+UBIFS: mounted read-only
+UBIFS: file system size:   14221312 bytes (13888 KiB, 13 MiB, 112 LEBs)
+UBIFS: journal size:       2285568 bytes (2232 KiB, 2 MiB, 18 LEBs)
+UBIFS: media format:       w4/r0 (latest is w4/r0)
+UBIFS: default compressor: lzo
+UBIFS: reserved for root:  0 bytes (0 KiB)
+UBIFS: completing deferred recovery
+UBIFS: deferred recovery completed
+*** Check /mnt/persist/app.info ***
+*** Kernel and rootfs valid, continuing...
+*** Mounting RootFS ubi15_0
+*** ROOT_FS_TYPE=ubifs ***
+*** Mounting rootfs as ubifs... ***
+mount -t ubifs -o noatime,nodiratime,ro ubi15_0 /mnt/rootfs
+UBIFS: mounted UBI device 15, volume 0, name "approotfs"
+UBIFS: mounted read-only
+UBIFS: file system size:   156180480 bytes (152520 KiB, 148 MiB, 1230 LEBs)
+UBIFS: journal size:       7872512 bytes (7688 KiB, 7 MiB, 62 LEBs)
+UBIFS: media format:       w4/r0 (latest is w4/r0)
+UBIFS: default compressor: none
+UBIFS: reserved for root:  4952683 bytes (4836 KiB)
+*** Mount success ***
+Verifying RSA Signature ...
+Input:     8b62057bf3197fc0fa03e82bec11d1d709b8622ecace70197083a745604c54bb
+Signature: 8b62057bf3197fc0fa03e82bec11d1d709b8622ecace70197083a745604c54bb
+RSA Signature verify OK!
+real	0m 23.13s
+user	0m 14.08s
+sys	0m 0.71s
+mount -t squashfs /mnt/romfs/rootfs.squashfs /mnt/rootfs
+UBIFS: un-mount UBI device 9, volume 0
+*** switch_root to new root and run init...
+mknod: /dev/ubi9: File exists
+mknod: /dev/ubi9_0: File exists
+UBIFS: mounted UBI device 9, volume 0, name "persist"
+UBIFS: file system size:   14221312 bytes (13888 KiB, 13 MiB, 112 LEBs)
+UBIFS: journal size:       2285568 bytes (2232 KiB, 2 MiB, 18 LEBs)
+UBIFS: media format:       w4/r0 (latest is w4/r0)
+UBIFS: default compressor: lzo
+UBIFS: reserved for root:  0 bytes (0 KiB)
+
+Extract local identinfo from flash
+[gentaginfo] Start now for BBL
+[gentaginfo] Start now for BBL2
+[gentaginfo] Start now for APP
+[gentaginfo] Start now for PBL
+[gentaginfo] Start now for PBL2
+[gentaginfo] PBL2 not exists
+[gentaginfo] End
+Setting default system time 2017
+Sun Jan  1 00:00:00 UTC 2017
+PBL: 2.5.4-pbl
+BBL: 2.9.1.3-bbl
+APP: 2.9.14-mvn--qtwebkit-5.7.4.76
+******************** fsinit 28.79 ********************
+Encrypted rootfs: Found file
+Verifying RSA Signature ...
+Input:     1b65ac80a57b4e0afb7ede27a7e75127de1a0b66274c4de6871179148fc38087
+Signature: 1b65ac80a57b4e0afb7ede27a7e75127de1a0b66274c4de6871179148fc38087
+RSA Signature verify OK!
+Encrypted rootfs: Mount SUCCESS
+Load system kb success from blk2
+Version: 1126653cbf
+gpg keyrings are found
+Use device specific X509 identity
+******************** Checking validity of sys_config 32.11 ********************
+sys_config.txt is OK, continue booting...
+******************** Merge defaults 32.13 ********************
+/mnt/persist/sys_config.txt already has all the necessary fields!
+******************** Done merging 32.25 ********************
+******************** load sys_config 32.36 ********************
+*** Found eeprom partition on flash ***
+*** (early) readhwblk now ***
+******************** (early) init_detect_board 32.70 ********************
+####### Determining Board type #######
+Kamai5xx Decoder 1
+####### Done Determining Board type #######
+[gentaginfo] Start now for BBL
+[gentaginfo] Start now for BBL2
+[gentaginfo] Start now for APP
+[gentaginfo] Start now for PBL
+[gentaginfo] Start now for PBL2
+[gentaginfo] PBL2 not exists
+[gentaginfo] End
+*** Chipset BCM7231b2 ***
+*** Platform Family BCM72xx ***
+*** Linux Kernel 2.6.37 is used ***
+find: /tmp/network/device/bridge: No such file or directory
+find: /tmp/network/device/coax: No such file or directory
+find: /tmp/network/device/eth: No such file or directory
+find: /tmp/network/device/gprs: No such file or directory
+find: /tmp/network/device/wifi: No such file or directory
+nexus: module license 'Proprietary' taints kernel.
+Disabling lock debugging due to kernel taint
+nexus driver initialized
+Starting fusion driver v8.9.0
+  -> initializing shared area at af2fc000
+fusion: unable to register major 250. Registered 249 instead
+Creating virtual network device
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+******************** init_entone_mediaplayer 37.81 ********************
+Waiting for entone_mediaplayer ...
+*** 00:00:04.398 nexus_platform_97231: pMemory->osRegion[0].length 160 MB, pMemory->osRegion[1].length 97 MB	  
+*** 00:00:04.408 nexus_platform_97231: pMemory->osRegion[0].length 160 MB, pMemory->osRegion[1].length 97 MB	  
+*** 00:00:04.417 nexus_platform_97231: Graphics heap 0 
+*** 00:00:04.423 nexus_platform_97231: Picture heap 101711872 (xvd 61865984, vdc 35665920)
+*** 00:00:04.432 nexus_platform: Release 97230 13.2 
+    00:00:04.437 nexus_platform_core: using cache-only mapping for heap[0] 0x6000000:167772160, memoryType=7
+    00:00:04.446 nexus_platform_core: using cache-only mapping for heap[2] 0x20000000:101711872, memoryType=0
+*** 00:00:04.456 BCHP_PWR: BCHP_PWR power management enabled
+*** 00:00:04.465 int: using BINT with 0 external interrupts, 20 standard interrupts and  24 interrups with a 'weak' mask
+*** 00:00:04.499 nexus_audio_module: FW download used
+*** 00:00:04.505 nexus_transport_module: DPCR Thread: started
+*** 00:00:05.173 nexus_video_decoder: FW download used
+*** 00:00:05.179 BXVD_PLATFORM_REVK0: RV9 decode disabled by OTP
+*** 00:00:05.339 BXVD: BXVD_Open() - Hardware revision: L, Firmware revision: 160504
+*** 00:00:05.370 nexus_platform_config: softI2c = false
+### 00:00:05.376 nexus_platform_config: hdmiSettings.spd.vendorName = Entone
+### 00:00:05.383 nexus_platform_config: hdmiSettings.spd.description = Kamai
+*** 00:00:05.391 nexus_hdmi_output: HDMI Output is not connected to nexus display
+*** 00:00:05.451 nexus_platform: initialized
+*** 00:00:05.455 nexus_statistics_api: NEXUS_Platform_Init_tagged[platform:Default] 1023 msec
+******************** init_hwblk 42.79 ********************
+*** readhwblk now ***
+HW Config Block
+Version: 4
+ESN: 4527406
+HW Model: 26
+Board Version: B2 - 104
+Front Panel Model: 0
+Front Panel Version:    - 0
+Color System: P -    
+Secure Type: 2
+******************** software_tag_verify_app_in_app 42.95 ********************
+[Software Tag]: Verifying HWBLK version if supports Software Tag (Current HWBLK version is = 4)
+[Software Tag]: Software Tag is not supported for HWBLK version < 10
+******************** Run video_system_detect  42.96 ********************
+******************** init_display 42.99 ********************
+init_display
+Aon Standard GPIO
+Input GPIO
+GPIO 7 status: 0
+Color System information found in hwblk
+####### Determining External RF modulator #######
+External RFM not detected.
+####### Done Determining External RF modulator #######
+Checking video frequency for single mode!
+for Europe
+Pal Box, need detect scart switch
+init scart for kamai5xx
+####### Disabled video fixed format #######
+done init_board
+Nickname=26-45274061
+******************** LinkStatus 43.30 ********************
+******************** splash1 43.35 ********************
+*** 00:00:06.476 BCHP_AVS: AVS support enabled!
+*** 00:00:06.480 BCHP_AVS: [AvsInitialize:1484]: AvsResetSequencers() in AvsUpdate() is disabled!!!
+
+*** 00:00:08.085 BHDM: Output Fmt:   1080i@50 1920 [+]  x 540/540 [+]
+*** 00:00:08.111 BHDM: Output Mode:  HDMI (Audio+Video)
+*** 00:00:08.118 nexus_statistics_api: NEXUS_Display_AddOutput[display:Default] 177 msec
+*** 00:00:08.205 BHDM: BHDM_SetAvMute called while display is disabled
+*** 00:00:08.365 BHDM: Output Fmt:   1080i@50 1920 [+]  x 540/540 [+]
+*** 00:00:08.371 BHDM: Output Mode:  HDMI (Audio+Video)
+*** 00:00:08.378 nexus_statistics_api: NEXUS_Display_AddOutput[display:Default] 172 msec
+*** 00:00:08.417 BHDM: FIFO fullness 99 is not in range  122 <= x <= 134 ; <RECENTER FIFO>
+*** 00:00:08.462 BHDM: FIFO fullness 140 is not in range  122 <= x <= 134 ; <RECENTER FIFO>
+******************** LinkStatus 45.79 ********************
+*** 00:00:08.551 BHDM: Video data to HDMI Core... OK
+*** 00:00:08.560 BHDCPLIB: No Revoked KSV Callback Installed
+*** 00:00:08.573 BHDM_HDCP: HDCP Authentication Request
+*** 00:00:08.581 BHDCPLIB_KEYLOADER: $brcm_Revision: Hydra_Software_Devel/6 $
+skin: default
+commandline read: dfbdraw
+commandline read: -f
+commandline read: /tmp/drawcmd
+(*) DirectFB/Core: Multi Application Core. (2017-03-31 05:37) 
+(*) Fusion/SHM: Not using MADV_REMOVE (forced)!
+(*) Direct/Thread: Started 'Fusion Dispatch' (-1) [MESSAGING OTHER/OTHER 0/0] <1048576>...
+(!) system_intiailize_options: 'res': unspecified!
+(*) DirectFB/Graphics: Broadcom Corporation Bcmnexus Nexus 2D GFX Driver 4.2 (Broadcom Corporation)
+(*) Direct/Interface: Loaded 'FT2' implementation of 'IDirectFBFont'.
+Cannot find specified item ANI
+Unrecognized item type ANI!
+******************** /etc/init.d/S06FwdUpgProtVerCheck 47.80 ********************
+Doesn't need to update
+******************** Secure Init 48.25 ********************
+ForceDramScrambler: yes
+CrLockEnable: yes
+SecureBootEnable: yes
+Starting portmap: done
+******************** dnsmasq  48.97 ********************
+Initializing random number generator... done.
+/etc/init.d/S21mvpreload: running
+/etc/init.d/S21qtwebkitpreload: running
+mkdir: cannot create directory '/mnt/persist/fontconfig': File exists
+Starting system message bus: done
+******************** HDD INIT 49.82 ********************
+Checking /dev/mmcblk0 ...
+******************** HDD NOT DETECTED 50.00 ********************
+Command handler is now running
+******************** Check Tuner Model 50.06 ********************
+checking tuner card ...
+### 00:00:12.893 nexus_gpio_table: Pin mux register for gpio 20 is not properly configured - value 7 should be 0
+### 00:00:12.903 nexus_gpio: Force gpio 20 to GPIO mode
+Tuner card is NOT detected
+******************** brcm_input 50.48 ********************
+HW_MODEL=26 supports brcmInOutDaemon
+******************** input_dev_daemon 50.50 ********************
+******************** /etc/init.d/S31netifinit  50.70 ********************
+find: /tmp/network/device/coax: No such file or directory
+find: /tmp/network/device/coax: No such file or directory
+ifconfig eth0 hw ether 0003e68a2a5c
+find: /tmp/network/device/gprs: No such file or directory
+find: /tmp/network/device/gprs: No such file or directory
+find: /tmp/network/device/wifi: No such file or directory
+find: /tmp/network/device/wifi: No such file or directory
+******************** /etc/init.d/S31netifinit finished 52.36 ********************
+ls: /usr/share/remote_assist/*.conf: No such file or directory
+********* remote_assist 52.41 *********
+********* remote_assist_sw_tag 52.42 *********
+[Software Tag]: No need to start /usr/bin/remote_sw_tag
+******************** bootmenu 52.45 ********************
+******************** diagmenud 52.79 ********************
+### 00:00:15.669 nexus_gpio_table: Pin mux register for gpio 79 is not properly configured - value 273 should be 0
+### 00:00:15.679 nexus_gpio: Force gpio 79 to GPIO mode
+[BLINK LED] mem_write off is received
+[BLINK LED] mem_release is called
+[BLINK LED] mem_release unloads the driver
+[getProcInfo] error opening /proc/0/status
+[bm_internal_setup] enTaskCreate_Ex(BMENU) returned 0
+[entone_bootmenu_task] Alive!
+commandline read: bootmenu
+(*) DirectFB/Core: Multi Application Core. (2017-03-31 05:37) 
+(*) Fusion/SHM: Not using MADV_REMOVE (forced)!
+(*) Direct/Thread: Started 'Fusion Dispatch' (-1) [MESSAGING OTHER/OTHER 0/0] <1048576>...
+(!) system_intiailize_options: 'res': unspecified!
+******************** fc-cache (background) 54.50 ********************
+(*) DirectFB/Graphics: Broadcom Corporation Bcmnexus Nexus 2D GFX Driver 4.2 (Broadcom Corporation)
+******************** iptables 54.69 ********************
+[bm_MenuCap_init] essGetHWModel (26) success: Kamai500
+ip_tables: (C) 2000-2006 Netfilter Core Team
+/usr/share/fonts: skipping, existing cache is valid: 33 fonts, 1 dirs
+/usr/share/fonts/custom.persist: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/opera/fonts: skipping, no such directory
+/usr/share/fonts: nf_conntrack version 0.5.0 (3916 buckets, 15664 max)
+iptables: default
+(*) Direct/Interface: Loaded 'FT2' implementation of 'IDirectFBFont'.
+[bmi_screen_display] 0
+[ebmInit] call eidOpenDevDrv
+[main] bootmenu Start!
+iptables: MV
+egrep: /etc/dhcpc/dhcpcd-eth0.info: No such file or directory
+******************** /etc/init.d/S39netifdown  56.31 ********************
+find: /tmp/network/device/coax: No such file or directory
+find: /tmp/network/device/coax: No such file or directory
+Stop eth0
+[bcmgenet_power_up] reset MII_BMCR register
+find: /tmp/network/device/gprs: No such file or directory
+find: /tmp/network/device/gprs: No such file or directory
+find: /tmp/network/device/wifi: No such file or directory
+find: /tmp/network/device/wifi: No such file or directory
+******************** /etc/init.d/S39netifdown finished 57.05 ********************
+******************** starting network 57.11 ********************
+/tmp/network/config/pri already exists!
+/tmp/network/config/pri already exists!
+/tmp/network/config/pri already exists!
+try starting network by eth
+network_debug: touch_active_info IN pre_start eth eth eth0 Sun Jan  1 00:00:29 GMT 2017
+network_debug: echo touch_active_info clean /var/tmp/ip_obtained
+network_debug: touch_active_info OUT Sun Jan  1 00:00:29 GMT 2017
+Try to obtain IP through dhcp for eth0
+udhcpc (v1.15.3) started
+[bcmgenet_power_up] reset MII_BMCR register
+0: interface=eth0
+Sending discover...
+caching, new cache contents: 33 fonts, 1 dirs
+/usr/share/opera/fonts: skipping, no such directory
+/var/cache/fontconfig: cleaning cache directory
+eth0: Link up, 100 Mbps Full Duplex
+fc-cache: succeeded
+Sending discover...
+Sending select for 10.10.237.231...
+Using renewal time as timeout, value = 100000
+Lease of 10.10.237.231 obtained, lease time 200000
+num_opt: 1
+udhcpc: IP is bound
+enabling multicast
+adding dns 192.168.5.99
+route: SIOCDELRT: No such process
+[dnsmasq] checking if reload is needed...
+cat: can't open '/tmp/resolv/resolv.dnsmasq.conf.old': No such file or directory
+[dnsmasq] resolv.dnsmasq.conf.old: 
+[dnsmasq] resolv.dnsmasq.conf.new: nameserver 192.168.5.99
+/usr/share/udhcpc/scripts/renew.d/15getIni: Going to boot with VCI, remove middleware ini
+root: INI_SOURCE = ENTONEINI_FROM_DHCP_VCI
+******************** Downloading entone entone_boot.ini  67.11 ********************
+netget.sh: arg: http://192.168.27.7/entone/entone_boot_esk5.ini /tmp/entone_boot.ini
+netget.sh: wget: http://192.168.27.7/entone/entone_boot_esk5.ini
+wget return: 0
+ini_helper.sh: Backup /tmp/dhcpc/entone_boot.ini => /tmp/dhcpc/entone_boot.ini.bak
+ini_helper.sh: Updating entone_boot.ini with prefix HDB72 => HDBCM
+ini_helper.sh: Merging with /usr/share/init/default_entone_boot.ini
+hdmi_hotplug_mode_follow_ini=1
+Stopping dropbear sshd: OK
+Starting dropbear sshd: OK
+cpemgtutils: [read_registration_result:117] Failed to open /tmp/cpemgt_register_stb.log
+cpemgtutils: recent registration doesn't have a valid reply, stop saving it
+root: download entone_boot.ini success
+iptables: default
+iptables: MV
+0: interface=eth0
+1: ip=10.10.237.231
+2: subnet=255.255.0.0
+3: mask=16
+4: router=10.10.0.1
+5: dns=192.168.5.99
+6: broadcast=10.10.0.255
+7: lease=200000
+8: dhcptype=5
+9: serverid=192.168.27.7
+10: entoneini=http://192.168.27.7/entone/entone_boot_esk5.ini
+11: vci=1
+12: renewal=100000
+13: rebind=175000
+14: siaddr=192.168.27.7
+15: boot_file=AMINET.txt
+network_debug: touch_active_info IN ready eth eth eth0 Sun Jan  1 00:00:42 GMT 2017
+network_debug: touch_active_info OUT Sun Jan  1 00:00:42 GMT 2017
+******************** done starting network 71.06 ********************
+Starting dropbear sshd: OK
+******************** syslogd 71.19 ********************
+/sbin/syslogd -m 0 -C128 -l 1
+/sbin/klogd
+syslogd: S42timezone: NO timezone specified
+******************** diagmenu 71.25 ********************
+/etc/init.d/S43dvbupgrade: No DVB upgrade info, exit...
+******************** download splash screen 71.68 ********************
+#### Download splash - SPLASH_SCREEN ####
+Same splash screen version, skip download
+root: Same splash screen version, skip download
+#### Download splash - SPLASH_ANIMATION ####
+----- entone_boot.ini -----
+#Application's Images or RAM filesystem
+
+#Kamai 500
+#HDB72_DECODER_APP_FILE="http://10.10.0.9/entone/pkg_entone_hd_brcm_bin.2.4.35.3-mvn--qtwebkit-5.6.0.61.NoCA.aes.tar.gz"
+#HDB72_DECODER_APP_FILE="http://10.10.0.9/entone/pkg_entone_hd_brcm_bin.2.4.35.6-mvn--qtwebkit-5.6.0.61.NoCA.aes.tar.gz"
+#HDB72_DECODER_APP_FILE="http://10.10.0.9/entone/pkg_entone_hd_brcm_bin.2.4.35.8-mvn--qtwebkit-5.6.0.65.NoCA.aes.tar.gz"
+#HDB72_DECODER_APP_FILE="http://10.10.0.9/entone/pkg_entone_hd_brcm_bin.2.6.17.1_eng6-mvn_5.7.2.24.qtwebkit.verimatrix.aes.tar.gz"
+
+#HDB72_DECODER_APP_FILE="http://192.168.27.7/entone/pkg_entone_hd_brcm_bin.2.6.17.5-mvn--qtwebkit-5.7.2.67.NoCA.aes.tar.gz"
+#HDB72_DECODER_APP_VERSION="2.6.17.5-mvn--qtwebkit-5.7.2.67"
+
+
+#HDB72_DECODER_APP_FILE="http://192.168.27.7/entone/pkg_entone_hd_brcm_bin.2.9.5.1-mvn--qtwebkit-5.7.4.76.verimatrixMA.aes.tar.gz"
+#HDB72_DECODER_APP_VERSION="2.9.5.1-mvn--qtwebkit-5.7.4.76"
+
+#New remote control working
+HDBCM_DECODER_APP_FILE="http://192.168.27.7/entone/pkg_entone_hd_brcm_bin.2.9.14-mvn--qtwebkit-5.7.4.76.verimatrixMA.aes.tar.gz"
+HDBCM_DECODER_APP_VERSION="2.9.14-mvn--qtwebkit-5.7.4.76"
+
+
+#HDB72_DECODER_APP_VERSION="2.4.35.3-mvn--qtwebkit-5.6.0.61"
+#HDB72_DECODER_APP_VERSION="2.4.35.6-mvn--qtwebkit-5.6.0.61"
+#HDB72_DECODER_APP_VERSION="2.4.35.8-mvn--qtwebkit-5.6.0.65"
+#HDB72_DECODER_APP_VERSION="2.6.17.1_eng6-mvn_5.7.2.24.qtwebkit"
+#HDB72_DECODER_LOADER_FILE="http://10.10.0.9/entone/entone_HD_brcm_bbl.2.3.2-bbl.2.3.1-pbl.aes.tar.gz"
+#HDB72_DECODER_LOADER_VERSION="2.3.2-bbl"
+#HDB72_DECODER_LOADER_VERSION="2.4.3.1-bbl"
+
+#BBL
+HDBCM_DECODER_LOADER_FILE="http://192.168.27.7/entone/entone_HD_brcm_bbl.2.9.1.3-bbl.2.5.4-pbl.aes.tar.gz"
+HDBCM_DECODER_LOADER_VERSION="2.9.1.3-bbl"
+
+
+
+HDBCM_BOOT_Argument="think -ip=192.168.1.1:7780 -npvr_server=192.168.1.1:4004 -bm=0 -stbm=Entone_Hydra -asr=/dataservices -nnvb=0 -cso=thinkstuff_entone -cso_pal=thinkstuff_pal -uib=1 -nfbrt=5"
+
+#Audio/Video Sync Settings
+HDBCM_MAD_ENABLE=0
+
+# IP Multicast channel change options for Kamai 500
+HDBCM_PREROLL_VIDEO_BEFORE_LIPSYNC=0
+HDBCM_SHOW_FIRST_PICTURE_BEFORE_LIPSYNC=1
+
+
+# HLS channel change options for Kamai 500
+HDBCM_HLS_INIT_BUFFER_TIME=1
+
+# BootImage
+HDBCM_SPLASH_SCREEN_FILE="http://192.168.27.7/entone/splash8.gif"
+HDBCM_SPLASH_SCREEN_VERSION=v9
+
+# Custom font
+HDBCM_MV_FONT_FILE="http://192.168.27.7/entone/DroidSans.tgz"
+HDBCM_MV_DEFAULT_FONT_FACE="DroidSans"
+HDBCM_MV_FONT_VERSION="1"
+
+#RESOLUTION
+#HDB72_OPERA_RESOLUTION=1280x720
+
+#DEFAULT SUBTITLE
+HDBCM_SUBTITLE_ENABLE=2
+#HDB72_MV_OPTION_MENU_ITEM="AR LANG"
+
+#default Language
+HDBCM_DEFAULT_AUDIO_LANG="eng"
+
+#subtitle
+HDBCM_MV_OPTION_MENU_ITEM="AR LANG SUBTITLE"
+
+#TV NTSC
+HDBCM_CC_ENABLE=0
+#VOD
+#GLVL_SET=1 
+#HDB72_LOGFACILITY_SET=3 
+
+#SUBTITLE
+
+#HDB72_DEFAULT_SUBTITLE_ENABLE=1
+
+HDBCM_REMOTE_ACCESS_ID="2ca612d5"
+
+#Refresh
+#HDB72_LINKUP_IP_REFRESH=1
+
+### Processed by default.script automatically (DO NOT MODIFY THIS LINE!) ###
+
+########## AUTO APPENDED ##########
+# default values from /usr/share/init/default_entone_boot.ini
+HDBCM_BROWSER_SSL_SUPPORT_PROTOCOL="TLSV1"
+HDBCM_BROWSER_USER_AGENT="YTTV"
+HDBCM_DISABLE_PVR_RECIPHER=1
+HDBCM_DTCP_ENABLE=0
+HDBCM_ENABLE_BROWSER_MONITOR=1
+HDBCM_HLS_CHECK_PLAYLIST_BY_CON_GET=1
+HDBCM_HLS_PLAYLIST_SWAP_ALGORITHM=0
+HDBCM_HLS_START_MODE=1
+HDBCM_HLS_UPPER_BOUND_INC=100
+HDBCM_MOCA_TC_MAX_RATE_MBIT=175
+HDBCM_RECORDER_PSI_INDEXING="1"
+
+******************** Update check  72.10 ********************
+Check for BBL version
+upgrade: Local version: 2.9.1.3-bbl, Server version: 2.9.1.3-bbl
+upgrade: Already running 2.9.1.3-bbl, no need to upgrade
+Check for APP version
+upgrade: Local version: 2.9.14-mvn--qtwebkit-5.7.4.76, Server version: 2.9.14-mvn--qtwebkit-5.7.4.76
+upgrade: Already running 2.9.14-mvn--qtwebkit-5.7.4.76
+Extract local identinfo from flash
+[gentaginfo] Start now for BBL
+[gentaginfo] Start now for BBL2
+[gentaginfo] Start now for APP
+[gentaginfo] Start now for PBL
+[gentaginfo] Start now for PBL2
+[gentaginfo] PBL2 not exists
+[gentaginfo] End
+******************** provision 74.48 ********************
+******************** /etc/init.d/S45codec_license  75.26 ********************
+32+0 records in
+32+0 records out
+HDBCM_GET_CODEC_LICENSE_SITE not declared!
+********** libEntoneDRM init 75.34 *********
+********** HLS DRM init 75.36 *********
+********** WidevineCDM init 75.38 *********
+rshell: Security handler is now running
+Starting vnc server: OK
+******************** PVR 75.59 ********************
+PVR: mounting hda
+PVR: mounting hda FAILED
+******************** dlnaDmsDaemon 75.76 ********************
+S90dlna: SSDP port number: 1901
+Init Virtual keyboard
+Start VKB for Output 1 (ABCDEF)
+/etc/init.d/S97mvduoenv: running
+/etc/init.d/S98mvthinkenv: running
+Starting dial...
+******************** efpDaemon 76.76 ********************
+S99startup: Subtitle: Force ON
+rm: cannot remove '/tmp/has_cc': No such file or directory
+S99startup: Teletext: Enable
+S99startup: Subtitle: Enable
+S99startup: Closed Caption: Disable
+S99startup: WebVTT: Enable
+S99startup: Start getting commands from command server
