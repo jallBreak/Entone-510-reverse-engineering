@@ -1,0 +1,2 @@
+MACRONIX SPI flash: Size = 4MB, Sector Size 4096, Page Size 256
+Toshiba NAND = 256MiB 3,3V 8-bitbrcmnand brcmnand.0: 256MiB total, 128KiB blocks, 2KiB pages, 16B OOB, 8-bit, BCH-4\
