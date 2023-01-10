@@ -94,4 +94,4 @@ brown wire tx
             ..                                                                                      
 
                                                                                                     
- hi im takeing some time off and you fucking laptop is broken so bye
+ hi im takeing some time off and my fucking laptop is broken so bye
